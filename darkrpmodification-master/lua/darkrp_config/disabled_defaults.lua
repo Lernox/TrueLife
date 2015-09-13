@@ -21,15 +21,15 @@ The list of modules that are disabled. Set to true to disable, false to enable.
 Modules that are not in this list are enabled by default.
 ---------------------------------------------------------------------------]]
 DarkRP.disabledDefaults["modules"] = {
-	["afk"]              = true,
+	["afk"]              = false,
 	["chatsounds"]       = false,
 	["events"]           = false,
 	["fpp"]              = false,
-	["f1menu"]           = false,
+	["f1menu"]           = true,
 	["f4menu"]           = false,
 	["hitmenu"]          = false,
 	["hud"]              = false,
-	["hungermod"]        = true,
+	["hungermod"]        = false,
 	["playerscale"]      = false,
 	["sleep"]            = false,
 	["fadmin"]           = false,
