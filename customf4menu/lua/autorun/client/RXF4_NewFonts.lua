@@ -1,0 +1,11 @@
+surface.CreateFont( "Sansation_S20",{font = "Sansation",size = 20,weight = 700})
+
+surface.CreateFont( "SansationOut_S15",{font = "Sansation",size = 15,weight = 700,outline = true})
+surface.CreateFont( "SansationOut_S20",{font = "Sansation",size = 20,weight = 700,outline = true})
+surface.CreateFont( "SansationOut_S25",{font = "Sansation",size = 25,weight = 700,outline = true})
+surface.CreateFont( "SansationOut_S30",{font = "Sansation",size = 30,weight = 700,outline = true})
+surface.CreateFont( "SansationOut_S35",{font = "Sansation",size = 35,weight = 700,outline = true})
+surface.CreateFont( "SansationOut_S40",{font = "Sansation",size = 40,weight = 700,outline = true})
+surface.CreateFont( "SansationOut_S55",{font = "Sansation",size = 55,weight = 700,outline = true})
+surface.CreateFont( "SansationOut_S70",{font = "Sansation",size = 70,weight = 700,outline = true})
+surface.CreateFont( "SansationOut_S200",{font = "Sansation",size = 200,weight = 700,outline = true})
